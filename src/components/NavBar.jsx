@@ -1,4 +1,4 @@
-import { Home as HomeIcon, Search, Library} from 'lucide-react'
+import { Home as HomeIcon, Search, Library } from 'lucide-react'
 export function NavBar() {
     return (
         <aside className="w-72bg-zinc-950 p-6">
