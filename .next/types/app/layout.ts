@@ -1,4 +1,4 @@
-// File: /home/lucielio/Spotify/spotify-tailwind/src/app/layout.tsx
+// File: /home/lucielio/teste/Spotify-tailwind/src/app/layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
